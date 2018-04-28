@@ -1,3 +1,4 @@
 <?php 
-echo date(); //rrrrrr
+echo date(); //rtttttttttttttttttt
 ?>
+
