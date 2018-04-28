@@ -1,2 +1,2 @@
 <?php 
-date()
+echo date();
