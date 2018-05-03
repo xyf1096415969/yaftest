@@ -1,3 +1,3 @@
 <?php
-echo 98; ///rrrrrrrrrrrrrrrrrr
+echo 98;
 ?>
