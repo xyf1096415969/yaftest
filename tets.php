@@ -1,1 +1,3 @@
-asdaswdcas
+<?php
+
+echo time();
